@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd9ee847-a6cf-432b-a05b-c52b986d4f43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meteor-mongo-practice/.meteor/packages" beforeDir="false" afterPath="$PROJECT_DIR$/meteor-mongo-practice/.meteor/packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meteor-mongo-practice/.meteor/versions" beforeDir="false" afterPath="$PROJECT_DIR$/meteor-mongo-practice/.meteor/versions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meteor-mongo-practice/both/PeopleCollection.js" beforeDir="false" afterPath="$PROJECT_DIR$/meteor-mongo-practice/both/PeopleCollection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meteor-mongo-practice/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/meteor-mongo-practice/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meteor-mongo-practice/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/meteor-mongo-practice/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meteor-mongo-practice/server/PeopleInitialization.js" beforeDir="false" afterPath="$PROJECT_DIR$/meteor-mongo-practice/server/PeopleInitialization.js" afterDir="false" />
-    </list>
+    <list default="true" id="dd9ee847-a6cf-432b-a05b-c52b986d4f43" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +13,7 @@
     <session id="-945433918">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.opened" value="2" />
@@ -81,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/meteor-mongo-practice/server/PeopleInitialization.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="2" selection-end-line="9" selection-end-column="68" />
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -1427,7 +1419,7 @@
     <entry file="file://$PROJECT_DIR$/meteor-mongo-practice/server/PeopleInitialization.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="2" selection-end-line="9" selection-end-column="68" />
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
